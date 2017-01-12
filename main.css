@@ -20,7 +20,7 @@ h1 {
   text-transform: uppercase;
 }
 
-p {
+.backtext {
   background-color: #f7f7f7;
   color: #444444;
   line-height: 32px;
