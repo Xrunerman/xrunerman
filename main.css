@@ -21,9 +21,9 @@ h1 {
 }
 
 p {
-  background-color: #f7f7f7;
-  color: #444444;
-  line-height: 32px;
+   
+  background-color: maroon; /* Цвет фона под текстом параграфа */
+  color: white; /* Цвет текста */
   font-family: 'Raleway', sans-serif;
   font-size: 20px;
   font-weight: 100;
