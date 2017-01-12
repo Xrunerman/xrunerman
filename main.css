@@ -33,3 +33,7 @@ p {
   background-position: center;
   height: 300px;
 }
+
+.content {
+  padding: 40px;
+}
