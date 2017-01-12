@@ -57,10 +57,17 @@ p {
 }
 
 .image {
-  background-image: url("http://www.zastavki.com/pictures/originals/2013/Fantasy__039453_.png");
+  background-image: url("image1.png");
   background-size: cover;
   background-position: center;
-  
+  height: 300px;
+}
+
+.image2 {
+  background-image: url("image2.png");
+  background-size: cover;
+  background-position: center;
+  height: 300px;
 }
 
 .writer-img {
