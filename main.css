@@ -13,8 +13,8 @@ body
 h1 {
   color: #E4BB97;
   background-color: #AA8EB5;
-  font-family: 'GABRIOLA', sans-serif;
-  font-size: 28px;
+  font-family: 'COMIC SANS MS', sans-serif;
+  font-size: 34px;
   font-weight: 500;
   text-align: center;
   text-transform: uppercase;
@@ -22,9 +22,9 @@ h1 {
 
 p {
    
-  background-color: maroon; /* Цвет фона под текстом параграфа */
-  color: white; /* Цвет текста */
-  font-family: 'Raleway', sans-serif;
+  background-color: maroon; 
+  color: white; 
+  font-family: 'gabriola', sans-serif;
   font-size: 20px;
   font-weight: 100;
   text-align: left;
