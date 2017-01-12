@@ -57,10 +57,10 @@ p {
 }
 
 .image {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-4/htmlcss1-img_soccer.jpeg");
+  background-image: url("https://xage.ru/media/posts/2014/3/19/superman-with-gopro.jpg");
   background-size: cover;
   background-position: center;
-  height: 300px;
+  
 }
 
 .writer-img {
