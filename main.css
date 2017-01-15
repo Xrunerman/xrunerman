@@ -24,3 +24,8 @@ h1 {
     text-align:center;
 }
             
+.fig {
+    float: right; 
+    padding-left: 10px; 
+    padding-bottom: 10px; 
+}
