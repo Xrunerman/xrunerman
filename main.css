@@ -25,7 +25,10 @@ h1 {
 }
             
 .fig {
-    float: right; 
+    float: left; 
     padding-left: 10px; 
     padding-bottom: 10px; 
+}
+
+.p { text-align: center;
 }
