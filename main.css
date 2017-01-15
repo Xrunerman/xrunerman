@@ -27,5 +27,13 @@ h1 {
 .fig {
     float: left; 
     padding-left: 10px; 
+    padding-right: 20px;
+    padding-bottom: 10px; 
+}
+
+.fig2 {
+    float: right; 
+    padding-left: 20px; 
+    padding-right: 10px;
     padding-bottom: 10px; 
 }
